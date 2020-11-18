@@ -3,7 +3,7 @@
 [![Credits: NASA/NIH](https://img.shields.io/badge/Credits-NASA%20&%20NIH-blue.svg)](#Credits)
 [![Citation: Badr et. al 2020](https://img.shields.io/badge/Citation-Badr%20et%20al.%202020-blue.svg)](#Citation)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![GitHub Commit](https://img.shields.io/github/last-commit/hsbadr/COVID-19)](https://github.com/hsbadr/COVID-19/commits/master)
+[![GitHub Commit](https://img.shields.io/github/last-commit/CSSEGISandData/COVID-19_Unified-Dataset)](https://github.com/CSSEGISandData/COVID-19_Unified-Dataset/commits/master)
 
 This is an all-in-one harmonized COVID-19 dataset to fulfill the following objectives:
   * Mapping all geospatial units globally into a unique standardized ID.
@@ -200,4 +200,4 @@ This work is supported by NASA Health & Air Quality project `80NSSC18K0327`, und
 
 To cite this dataset:
 
-> Badr, H. S., B. F. Zaitchik, G. H. Kerr, J. M. Colston, P. Hinson, Y. Chen, N. H. Nguyen, M. Kosek, H. Du, E. Dong, and L. M. Gardner, **2020**: Unified COVID-19 Dataset. _GitHub_, `https://github.com/hsbadr/COVID-19`.
+> Badr, H. S., B. F. Zaitchik, G. H. Kerr, J. M. Colston, P. Hinson, Y. Chen, N. H. Nguyen, M. Kosek, H. Du, E. Dong, and L. M. Gardner, **2020**: Unified COVID-19 Dataset. _GitHub_, `https://github.com/CSSEGISandData/COVID-19_Unified-Dataset`.
