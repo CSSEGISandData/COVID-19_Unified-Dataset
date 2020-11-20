@@ -200,4 +200,5 @@ This work is supported by NASA Health & Air Quality project `80NSSC18K0327`, und
 
 To cite this dataset:
 
-> Badr, H. S., B. F. Zaitchik, G. H. Kerr, J. M. Colston, P. Hinson, Y. Chen, N. H. Nguyen, M. Kosek, H. Du, E. Dong, M. Marshall, K. Nixon, and L. M. Gardner, **2020**: Unified COVID-19 Dataset. _GitHub_, `https://github.com/CSSEGISandData/COVID-19_Unified-Dataset`.
+> Badr, H. S., B. F. Zaitchik, G. H. Kerr, J. M. Colston, P. Hinson, Y. Chen, N. H. Nguyen, M. Kosek, H. Du, E. Dong, M. Marshall, K. Nixon, and L. M. Gardner, **2020**: Unified COVID-19 Dataset.
+`https://github.com/CSSEGISandData/COVID-19_Unified-Dataset`.
