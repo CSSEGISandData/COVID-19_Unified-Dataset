@@ -122,7 +122,9 @@ Note that COVID-19 data for some European countries from Johns Hopkins Universit
 | **P**              | Double     |  mm/day  | Daily total precipitation |
 | **U**              | Double     |    m/s   | Daily average 10-m above ground Zonal wind speed |
 | **V**              | Double     |    m/s   | Daily average 10-m above ground Meridional wind speed |
-| **HydrometSource** | Character  |          | Data source: [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5), [NLDAS](https://ldas.gsfc.nasa.gov/nldas) |
+| **HydrometSource** | Character  |          | Data source: [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5), [NLDAS](https://ldas.gsfc.nasa.gov/nldas) ± [CIESIN](http://www.ciesin.columbia.edu)* |
+
+* The hydromet data with `_CIESIN` suffix in `HydrometSource` are population-weighted using Gridded Population of the World ([GPW](https://sedac.ciesin.columbia.edu/data/collection/gpw-v4)), hosted by Center for International Earth Science Information Network ([CIESIN](http://www.ciesin.columbia.edu)) Columbia University.
 
 ## Policy Data Structure
 
@@ -189,6 +191,7 @@ For more details, see OxCGRT's [codebook](https://github.com/OxCGRT/covid-policy
 | **RKI**    | [Robert Koch-Institut, Germany](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0) | NUTS 0-3, Germany |
 | **ERA5**   | [The fifth generation of ECMWF reanalysis](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5) | All levels |
 | **NLDAS**  | [North American Land Data Assimilation System](https://ldas.gsfc.nasa.gov/nldas) | County/State, United States |
+| **CIESIN** | [Center for International Earth Science Information Network](http://www.ciesin.columbia.edu) | Global gridded population |
 | **OxCGRT** | [Oxford COVID-19 Government Response Tracker](https://github.com/OxCGRT) | National (global) & subnational (US, UK) |
 
 

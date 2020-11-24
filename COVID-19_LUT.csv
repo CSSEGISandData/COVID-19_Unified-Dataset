@@ -5679,6 +5679,7 @@ CANB,Province,124,CAN,CA,NB,CA-NB,,,,,,-66.46,46.57,779993,1,Canada,New Brunswic
 CANL,Province,124,CAN,CA,NL,CA-NL,,,,,,-57.66,53.14,521365,1,Canada,Newfoundland and Labrador,,,"Newfoundland and Labrador, Canada"
 CANS,Province,124,CAN,CA,NS,CA-NS,,,,,,-63.74,44.68,977457,1,Canada,Nova Scotia,,,"Nova Scotia, Canada"
 CANT,Province,124,CAN,CA,NT,CA-NT,,,,,,-124.85,64.83,44904,1,Canada,Northwest Territories,,,"Northwest Territories, Canada"
+CANU,Province,124,CAN,CA,NU,CA-NU,,,,,,-83.11,70.30,38780,1,Canada,Nunavut,,,"Nunavut, Canada"
 CAON,Province,124,CAN,CA,ON,CA-ON,,,,,,-85.32,51.25,14711827,1,Canada,Ontario,,,"Ontario, Canada"
 CAPE,Province,124,CAN,CA,PE,CA-PE,,,,,,-63.42,46.51,158158,1,Canada,Prince Edward Island,,,"Prince Edward Island, Canada"
 CAQC,Province,124,CAN,CA,QC,CA-QC,,,,,,-73.55,52.94,8537674,1,Canada,Quebec,,,"Quebec, Canada"
