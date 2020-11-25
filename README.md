@@ -5,7 +5,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![GitHub Commit](https://img.shields.io/github/last-commit/CSSEGISandData/COVID-19_Unified-Dataset)](https://github.com/CSSEGISandData/COVID-19_Unified-Dataset/commits/master)
 
-This is an all-in-one unified COVID-19 dataset to fulfill the following objectives:
+This is a unified COVID-19 dataset to fulfill the following objectives:
   * Mapping all geospatial units globally into a unique standardized ID.
   * Standardizing administrative names and codes at all levels.
   * Standardizing dates, data types, and formats.

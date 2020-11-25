@@ -1579,6 +1579,7 @@ BRMG3115409,Municipality,076,BRA,BR,MG,BR-MG,,,,3115409,,-43.50,-20.69,3641,2,Br
 BRMG3115458,Municipality,076,BRA,BR,MG,BR-MG,,,,3115458,,-41.52,-17.30,6311,2,Brazil,Minas Gerais,Catuji,,"Catuji, Minas Gerais, Brazil"
 BRMG3115474,Municipality,076,BRA,BR,MG,BR-MG,,,,3115474,,-42.96,-15.36,4986,2,Brazil,Minas Gerais,Catuti,,"Catuti, Minas Gerais, Brazil"
 BRMG3115508,Municipality,076,BRA,BR,MG,BR-MG,,,,3115508,,-44.93,-21.98,21656,2,Brazil,Minas Gerais,Caxambu,,"Caxambu, Minas Gerais, Brazil"
+BRMG3115607,Municipality,076,BRA,BR,MG,BR-MG,,,,3115607,,-45.71,-19.15,1164,2,Brazil,Minas Gerais,Cedro do Abaete,,"Cedro do Abaete, Minas Gerais, Brazil"
 BRMG3115706,Municipality,076,BRA,BR,MG,BR-MG,,,,3115706,,-41.31,-18.76,7032,2,Brazil,Minas Gerais,Central de Minas,,"Central de Minas, Minas Gerais, Brazil"
 BRMG3115805,Municipality,076,BRA,BR,MG,BR-MG,,,,3115805,,-49.20,-18.58,10350,2,Brazil,Minas Gerais,Centralina,,"Centralina, Minas Gerais, Brazil"
 BRMG3115904,Municipality,076,BRA,BR,MG,BR-MG,,,,3115904,,-43.22,-21.67,3154,2,Brazil,Minas Gerais,Chacara,,"Chacara, Minas Gerais, Brazil"
@@ -5685,6 +5686,7 @@ CAPE,Province,124,CAN,CA,PE,CA-PE,,,,,,-63.42,46.51,158158,1,Canada,Prince Edwar
 CAQC,Province,124,CAN,CA,QC,CA-QC,,,,,,-73.55,52.94,8537674,1,Canada,Quebec,,,"Quebec, Canada"
 CASK,Province,124,CAN,CA,SK,CA-SK,,,,,,-106.45,52.94,1181666,1,Canada,Saskatchewan,,,"Saskatchewan, Canada"
 CAYT,Province,124,CAN,CA,YT,CA-YT,,,,,,-135.00,64.28,41078,1,Canada,Yukon,,,"Yukon, Canada"
+CAZT,Province,124,CAN,CA,ZT,CA-ZT,,,,,,,,,1,Canada,Repatriated Travellers,,,"Repatriated Travellers, Canada"
 CD,Country,180,COD,CD,CD,CD,,CD,,,,21.76,-4.04,89561404,0,Congo (Kinshasa),,,,Congo (Kinshasa)
 CF,Country,140,CAF,CF,CF,CF,,CF,,,,20.94,6.61,4829764,0,Central African Republic,,,,Central African Republic
 CG,Country,178,COG,CG,CG,CG,,CG,,,,15.83,-0.23,5518092,0,Congo (Brazzaville),,,,Congo (Brazzaville)
