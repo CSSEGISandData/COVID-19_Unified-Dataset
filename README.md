@@ -164,6 +164,7 @@ Note that COVID-19 data for some European countries from Johns Hopkins Universit
 | **H4**               | Emergency investment in healthcare |
 | **H5**               | Investment in vaccines |
 | **H6**               | Investment in vaccines |
+| **H7**               | Vaccination policy |
 | **MX**               | **Miscellaneous policies** |
 | **M1**               | Wildcard |
 | **IX**               | **Policy indices** |
