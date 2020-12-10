@@ -6254,7 +6254,7 @@ DEG0P,NUTS3,276,DEU,DE,TH,DE-TH,,DEG0P,16063,,,10.21,50.89,123025,3,Germany,Thur
 DJ,Country,262,DJI,DJ,DJ,DJ,,DJ,,,,42.59,11.83,988002,0,Djibouti,,,,Djibouti
 DK,Country,208,DNK,DK,DK,DK,,DK,,,,9.50,56.26,5792203,0,Denmark,,,,Denmark
 DKDK,Province,208,DNK,DK,DK,DK,,,,,,9.50,56.26,,1,Denmark,Denmark,,,"Denmark, Denmark"
-DKFO,Province,208,DNK,DK,FO,DK-FO,,,,,,-6.91,61.89,48865,1,Denmark,Faroe Islands,,,"Faroe Islands, Denmark"
+DKFO,Province,208,DNK,DK,FO,DK-FO,,,,,,-6.91,61.89,48865,1,Denmark,Faroe,,,"Faroe, Denmark"
 DKGL,Province,208,DNK,DK,GL,DK-GL,,,,,,-42.60,71.71,56772,1,Denmark,Greenland,,,"Greenland, Denmark"
 DM,Country,212,DMA,DM,DM,DM,,DM,,,,-61.37,15.41,71991,0,Dominica,,,,Dominica
 DO,Country,214,DOM,DO,DO,DO,,DO,,,,-70.16,18.74,10847904,0,Dominican Republic,,,,Dominican Republic
