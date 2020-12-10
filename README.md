@@ -65,7 +65,7 @@ Note that COVID-19 data for some European countries from Johns Hopkins Universit
 | **Type**           | Character  | Type of the reported cases |
 | **Age**            | Character  | Age group of the reported cases |
 | **Sex**            | Character  | Sex/gender of the reported cases |
-| **Source**         | Character  | Data source: [JHU](https://github.com/CSSEGISandData/COVID-19), [CTP](https://covidtracking.com), [NYC](https://github.com/nychealth/coronavirus-data), [NYT](https://github.com/nytimes/covid-19-data), [SES](https://github.com/wcota/covid19br), [DPC](https://github.com/pcm-dpc/COVID-19), [RKI](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0) |
+| **Source**         | Character  | Data source: [JHU](https://github.com/CSSEGISandData/COVID-19), [CTP](https://covidtracking.com), [NYC](https://github.com/nychealth/coronavirus-data), [NYT](https://github.com/nytimes/covid-19-data), [SES](https://github.com/wcota/covid19br), [DPC](https://github.com/pcm-dpc/COVID-19), [RKI](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0), [JRC](https://github.com/ec-jrc/COVID-19) |
 
 ## Case Types
 
@@ -191,6 +191,7 @@ For more details, see OxCGRT's [codebook](https://github.com/OxCGRT/covid-policy
 | **SES**    | [Monitoring COVID-19 Cases and Deaths in Brazil](https://github.com/wcota/covid19br) | Municipality/State/Country, Brazil |
 | **DPC**    | [Italian Civil Protection Department](https://github.com/pcm-dpc/COVID-19) | NUTS 0-3, Italy |
 | **RKI**    | [Robert Koch-Institut, Germany](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0) | NUTS 0-3, Germany |
+| **JRC**    | [Joint Research Centre](https://github.com/ec-jrc/COVID-19) | Global & NUTS 0-3, Europe |
 | **ERA5**   | [The fifth generation of ECMWF reanalysis](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5) | All levels |
 | **NLDAS**  | [North American Land Data Assimilation System](https://ldas.gsfc.nasa.gov/nldas) | County/State, United States |
 | **CIESIN** | [C. for International Earth Science Information Net.](http://www.ciesin.columbia.edu) | Global gridded population |
