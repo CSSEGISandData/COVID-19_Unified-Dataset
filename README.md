@@ -93,6 +93,10 @@ Note that COVID-19 data for some European countries from Johns Hopkins Universit
 |    **Ventilator**    | Total cases receiving mechanical ventilation                      |
 |  **Ventilator_Now**  | Currently receiving mechanical ventilation                        |
 
+## Hydromet Data Structure
+
+[Hydromet/README.md](https://github.com/CSSEGISandData/COVID-19_Unified-Dataset/blob/master/Hydromet/README.md)
+
 ## Policy Data Structure
 
 |      Column      |   Type    | Description                                        |
