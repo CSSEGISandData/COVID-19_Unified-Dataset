@@ -69,15 +69,15 @@ Note that COVID-19 data for some European countries from Johns Hopkins Universit
 
 ## Lookup Table
 
-[Lookup Table](https://github.com/CSSEGISandData/COVID-19_Unified-Dataset/blob/master/COVID-19_LUT.md)
+[Lookup Table](COVID-19_LUT.md)
 
 ## Hydromet Data Structure
 
-[Hydromet README](https://github.com/CSSEGISandData/COVID-19_Unified-Dataset/blob/master/Hydromet/README.md)
+[Hydromet README](Hydromet/README.md)
 
 ## Policy Data Structure
 
-[Policy README](https://github.com/CSSEGISandData/COVID-19_Unified-Dataset/blob/master/Policy.md)
+[Policy README](Policy.md)
 
 ## Data Sources
 
