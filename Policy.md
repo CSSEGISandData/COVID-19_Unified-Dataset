@@ -4,7 +4,7 @@
 
 |      Column      |   Type    | Description                                        |
 | :--------------: | :-------: | :------------------------------------------------- |
-|      **ID**      | Character | Geospatial ID, unique identifier (described above) |
+|      **ID**      | Character | Geospatial ID, unique identifier                   |
 |     **Date**     |   Date    | Date of data record                                |
 |  **PolicyType**  | Character | Type of the policy                                 |
 | **PolicyValue**  |  Double   | Value of the policy                                |

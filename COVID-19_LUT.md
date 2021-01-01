@@ -4,7 +4,7 @@
 
 |     Column     |   Type    | Description                                                                          |
 | :------------: | :-------: | :----------------------------------------------------------------------------------- |
-|     **ID**     | Character | Geospatial ID, unique identifier (described above)                                   |
+|     **ID**     | Character | Geospatial ID, unique identifier                                                     |
 |   **Level**    | Character | Geospatial level (e.g., Country, Province, State, County, District, and NUTS 0-3)    |
 |  **ISO1_3N**   | Character | ISO 3166-1 numeric code, 3-digit, administrative level 0 (countries)                 |
 |  **ISO1_3C**   | Character | ISO 3166-1 alpha-3 code, 3-letter, administrative level 0 (countries)                |

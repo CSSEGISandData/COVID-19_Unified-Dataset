@@ -4,7 +4,7 @@
 
 |       Column       |   Type    |            Unit             | Description                                                                                                                                                                       |
 | :----------------: | :-------: | :-------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       **ID**       | Character |                             | Geospatial ID, unique identifier (described above)                                                                                                                                |
+|       **ID**       | Character |                             | Geospatial ID, unique identifier                                                                                                                                                  |
 |      **Date**      |   Date    |                             | Date of data record                                                                                                                                                               |
 |       **T**        |  Double   |             °C              | Daily average near-surface air temperature                                                                                                                                        |
 |      **Tmax**      |  Double   |             °C              | Daily maximum near-surface air temperature                                                                                                                                        |
