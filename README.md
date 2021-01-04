@@ -1,8 +1,8 @@
 # Unified COVID-19 Dataset
 
-[![Copyright: © 2020 JHU)](https://img.shields.io/badge/Copyright-%C2%A9%202020%20JHU-blue.svg)](https://systems.jhu.edu)
+[![Copyright: © 2021 JHU)](https://img.shields.io/badge/Copyright-%C2%A9%202021%20JHU-blue.svg)](https://systems.jhu.edu)
 [![Credits: NASA/NIH](https://img.shields.io/badge/Credits-NASA%20&%20NIH-blue.svg)](#Credits)
-[![Citation: Badr et. al 2020](https://img.shields.io/badge/Citation-Badr%20et%20al.%202020-blue.svg)](#Citation)
+[![Citation: Badr et. al 2021](https://img.shields.io/badge/Citation-Badr%20et%20al.%202021-blue.svg)](#Citation)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![GitHub Commit](https://img.shields.io/github/last-commit/CSSEGISandData/COVID-19_Unified-Dataset)](https://github.com/CSSEGISandData/COVID-19_Unified-Dataset/commits/master)
 
@@ -104,4 +104,4 @@ This work is supported by NASA Health & Air Quality project `80NSSC18K0327`, und
 
 To cite this dataset:
 
-> Badr, H. S., B. F. Zaitchik, G. H. Kerr, J. M. Colston, P. Hinson, Y. Chen, N. H. Nguyen, M. Kosek, H. Du, E. Dong, M. Marshall, K. Nixon, and L. M. Gardner, **2020**: Unified COVID-19 Dataset.
+> Badr, H. S., B. F. Zaitchik, G. H. Kerr, J. M. Colston, P. Hinson, Y. Chen, N. H. Nguyen, M. Kosek, H. Du, E. Dong, M. Marshall, K. Nixon, and L. M. Gardner, **2021**: Unified COVID-19 Dataset.
