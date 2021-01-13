@@ -45,8 +45,8 @@
 |  **I2**  | Economic support index               |
 |  **I3**  | Government response index            |
 |  **I4**  | Stringency index                     |
-|  **IC**  | **Confirmed cases**                  |
-|  **ID**  | **Confirmed deaths**                 |
+| *Cases*  | **Confirmed cases**                  |
+| *Deaths* | **Confirmed deaths**                 |
 | **IXD**  | _Policy indices (Display)_           |
 | **IXL**  | _Policy indices (Legacy)_            |
 | **IXLD** | _Policy indices (Legacy, Display)_   |
