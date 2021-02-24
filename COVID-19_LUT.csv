@@ -5745,6 +5745,7 @@ CNXJ,Province,156,CHN,CN,XJ,CN-XJ,,,,,,85.24,41.11,24870000,1,China,Xinjiang,,,"
 CNXZ,Province,156,CHN,CN,XZ,CN-XZ,,,,,,88.09,31.69,3440000,1,China,Tibet,,,"Tibet, China"
 CNYN,Province,156,CHN,CN,YN,CN-YN,,,,,,101.49,24.97,48300000,1,China,Yunnan,,,"Yunnan, China"
 CNZJ,Province,156,CHN,CN,ZJ,CN-ZJ,,,,,,120.09,29.18,57370000,1,China,Zhejiang,,,"Zhejiang, China"
+CNZZ,Province,156,CHN,CN,ZZ,CN-ZZ,,,,,,,,,1,China,Unassigned,,,"Unassigned, China"
 CO,Country,170,COL,CO,CO,CO,,CO,,,,-74.30,4.57,50882884,0,Colombia,,,,Colombia
 COAMA,Province,170,COL,CO,AMA,CO-AMA,,,,,,-71.57,-1.44,76589,1,Colombia,Amazonas,,,"Amazonas, Colombia"
 COANT,Province,170,COL,CO,ANT,CO-ANT,,,,,,-75.34,7.20,6407102,1,Colombia,Antioquia,,,"Antioquia, Colombia"
