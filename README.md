@@ -14,8 +14,9 @@ This is a unified COVID-19 dataset to fulfill the following objectives:
 - Unifying variable names, types, and categories.
 - Merging data from all credible sources at all levels.
 - Cleaning the data and fixing confusing entries.
-- Integrating air quality and hydrometeorological variables at all levels.
+- Integrating hydrometeorological variables at all levels.
 - Integrating population-weighted hydrometeorological variables.
+- Integrating air quality, comorbidities, WorldPop, and other static data.
 - Integrating policy data from Oxford government response tracker.
 - Integrating an augmented version from all sources (_future releases_).
 - Optimizing the data for machine learning applications.
@@ -71,9 +72,13 @@ Note that COVID-19 data for some European countries from Johns Hopkins Universit
 
 [Lookup Table](COVID-19_LUT.md)
 
-## Air Quality and Hydromet Data Structure
+## Static Data Structure
 
-[Air Quality and Hydromet README](Hydromet/README.md)
+[Static Data README](COVID-19_Static.md)
+
+## Hydromet Data Structure
+
+[Hydromet README](Hydromet/README.md)
 
 ## Policy Data Structure
 

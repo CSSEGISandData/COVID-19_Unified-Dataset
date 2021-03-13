@@ -1,15 +1,5 @@
 # Unified COVID-19 Dataset
 
-## Air Quality Data Structure
-
-|       Column       |    Type   |       Unit       | Description                                                                                    |
-| :----------------: | :-------: | :--------------: | :--------------------------------------------------------------------------------------------- |
-|       **ID**       | Character |                  | Geospatial ID, unique identifier                                                               |
-|      **PM2.5**     |  double   | µg/m<sup>3</sup> | Fine particulate matter (PM<sub>2.5</sub>) concentration (2014-2018 mean)                      |
-|  **PM2.5_PopWtd**  |  double   | µg/m<sup>3</sup> | Fine particulate matter (PM<sub>2.5</sub>) concentration (2014-2018 mean, population weighted) |
-|       **NO2**      |  double   |       ppbv       | Nitrogen dioxide (NO<sub>2</sub>) concentration (2014-2018 mean)                               |
-|   **NO2_PopWtd**   |  double   |       ppbv       | Nitrogen dioxide (NO<sub>2</sub>) concentration (2014-2018 mean, population weighted)          |
-
 ## Hydromet Data Structure
 
 |       Column       |   Type    |            Unit             | Description                                                                                                                                                                       |
