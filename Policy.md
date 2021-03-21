@@ -38,6 +38,7 @@
 |  **H5**  | Investment in vaccines               |
 |  **H6**  | Investment in vaccines               |
 |  **H7**  | Vaccination policy                   |
+|  **H8**  | Protection of elderly people         |
 |  **MX**  | **Miscellaneous policies**           |
 |  **M1**  | Wildcard                             |
 |  **IX**  | **Policy indices**                   |
