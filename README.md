@@ -109,4 +109,4 @@ This work is supported by NASA Health & Air Quality project `80NSSC18K0327`, und
 
 To cite this dataset:
 
-> Badr, H. S., B. F. Zaitchik, G. H. Kerr, J. M. Colston, P. Hinson, Y. Chen, N. H. Nguyen, M. Kosek, H. Du, E. Dong, M. Marshall, K. Nixon, and L. M. Gardner, **2021**: Unified COVID-19 Dataset.
+> Badr, H. S., B. F. Zaitchik, G. H. Kerr, N. H. Nguyen, Y. Chen, N. P. Hinson, J. M. Colston, M. Kosek, E. Dong, H. Du, M. Marshall, K. Nixon, A. Mohegh, D. L. Goldberg, S. C. Anenberg, and L. M. Gardner, **2021**: Unified real-time environmental-epidemiological data for multiscale modeling of the COVID-19 pandemic.
