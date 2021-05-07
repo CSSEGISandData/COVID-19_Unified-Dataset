@@ -2,8 +2,7 @@
 
 [![Copyright: © 2021 JHU)](https://img.shields.io/badge/Copyright-%C2%A9%202021%20JHU-blue.svg)](https://systems.jhu.edu)
 [![Credits: NASA/NIH](https://img.shields.io/badge/Credits-NASA%20&%20NIH-blue.svg)](#Credits)
-[![Citation: Badr et. al 2021](https://img.shields.io/badge/Citation-Badr%20et%20al.%202021-blue.svg)](#Citation)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![DOI: 10.1101/2021.05.05.21256712](https://zenodo.org/badge/DOI/10.1101%2F2021.05.05.21256712.svg)](https://doi.org/10.1101/2021.05.05.21256712)
 [![GitHub Commit](https://img.shields.io/github/last-commit/CSSEGISandData/COVID-19_Unified-Dataset)](https://github.com/CSSEGISandData/COVID-19_Unified-Dataset/commits/master)
 
 This is a unified COVID-19 dataset to fulfill the following objectives:
@@ -112,7 +111,7 @@ To cite this dataset:
 
 > Badr, H. S., B. F. Zaitchik, G. H. Kerr, N. Nguyen, Y. Chen, P. Hinson, J. M. Colston, M. N. Kosek, E. Dong, H. Du, M. Marshall, K. Nixon, A. Mohegh, D. L. Goldberg, S. C. Anenberg, and L. M. Gardner, **2021**: Unified real-time environmental-epidemiological data for multiscale modeling of the COVID-19 pandemic. *MedRxiv*, 2021.05.05.21256712.
 
-### BibTex
+### BibTeX
 
 ```latex
 @article {Badr2021.05.05.21256712,
