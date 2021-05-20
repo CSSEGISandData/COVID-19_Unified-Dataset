@@ -7743,7 +7743,6 @@ ECY,Province,218,ECU,EC,Y,EC-Y,,,,,,-76.88,-1.72,118032,1,Ecuador,Pastaza,,,"Pas
 ECZ,Province,218,ECU,EC,Z,EC-Z,,,,,,-78.90,-4.17,111303,1,Ecuador,Zamora Chinchipe,,,"Zamora Chinchipe, Ecuador"
 EE,Country,233,EST,EE,EE,EE,,EE,,,,25.01,58.60,1326539,0,Estonia,,,,Estonia
 EG,Country,818,EGY,EG,EG,EG,,EG,,,,30.80,26.82,102334403,0,Egypt,,,,Egypt
-EH,Country,732,ESH,EH,EH,EH,,EH,,,,-12.89,24.22,597330,0,Western Sahara,,,,Western Sahara
 ER,Country,232,ERI,ER,ER,ER,,ER,,,,39.78,15.18,3546427,0,Eritrea,,,,Eritrea
 ES,Country,724,ESP,ES,ES,ES,,ES,,,,-3.75,40.46,46754783,0,Spain,,,,Spain
 ESAN,Province,724,ESP,ES,AN,ES-AN,,,,,,-4.73,37.54,8427405,1,Spain,Andalusia,,,"Andalusia, Spain"
@@ -12406,7 +12405,6 @@ SR,Country,740,SUR,SR,SR,SR,,SR,,,,-56.03,3.92,586634,0,Suriname,,,,Suriname
 SS,Country,728,SSD,SS,SS,SS,,SS,,,,31.31,6.88,11193729,0,South Sudan,,,,South Sudan
 ST,Country,678,STP,ST,ST,ST,,ST,,,,6.61,0.19,219161,0,Sao Tome and Principe,,,,Sao Tome and Principe
 SV,Country,222,SLV,SV,SV,SV,,SV,,,,-88.90,13.79,6486201,0,El Salvador,,,,El Salvador
-SY,Country,760,SYR,SY,SY,SY,,SY,,,,39.06,34.81,,0,Syrian Arab Republic,,,,Syrian Arab Republic
 SY,Country,760,SYR,SY,SY,SY,,SY,,,,39.00,34.80,17500657,0,Syria,,,,Syria
 SZ,Country,748,SWZ,SZ,SZ,SZ,,SZ,,,,31.47,-26.52,1160164,0,Eswatini,,,,Eswatini
 TD,Country,148,TCD,TD,TD,TD,,TD,,,,18.73,15.45,16425859,0,Chad,,,,Chad
