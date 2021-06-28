@@ -10544,6 +10544,7 @@ NO,Country,578,NOR,NO,NO,NO,,NO,,,,8.47,60.47,5421242,0,Norway,,,,Norway
 NP,Country,524,NPL,NP,NP,NP,,NP,,,,84.25,28.17,29136808,0,Nepal,,,,Nepal
 NZ,Country,554,NZL,NZ,NZ,NZ,,NZ,,,,174.89,-40.90,4822233,0,New Zealand,,,,New Zealand
 NZCK,Province,554,NZL,NZ,CK,NZ-CK,,,,,,-159.78,-21.24,17459,1,New Zealand,Cook Islands,,,"Cook Islands, New Zealand"
+OLYMPICS2020,Olympics,,,,,,,,,,,139.77,35.65,,0,Summer Olympics 2020,,,,Summer Olympics 2020
 OM,Country,512,OMN,OM,OM,OM,,OM,,,,55.92,21.51,5106622,0,Oman,,,,Oman
 PA,Country,591,PAN,PA,PA,PA,,PA,,,,-80.78,8.54,4314768,0,Panama,,,,Panama
 PE,Country,604,PER,PE,PE,PE,,PE,,,,-75.02,-9.19,32971846,0,Peru,,,,Peru
