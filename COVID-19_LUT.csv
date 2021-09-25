@@ -10725,6 +10725,9 @@ MY10,Province,458,MYS,MY,10,MY-10,,,,,,101.52,3.07,6541900,1,Malaysia,Selangor,,
 MY11,Province,458,MYS,MY,11,MY-11,,,,,,103.13,5.31,1250100,1,Malaysia,Terengganu,,,"Terengganu, Malaysia"
 MY12,Province,458,MYS,MY,12,MY-12,,,,,,116.08,5.98,3904700,1,Malaysia,Sabah,,,"Sabah, Malaysia"
 MY13,Province,458,MYS,MY,13,MY-13,,,,,,110.36,1.55,2818100,1,Malaysia,Sarawak,,,"Sarawak, Malaysia"
+MY14,Province,458,MYS,MY,14,MY-14,,,,,,101.69,3.14,1778400,1,Malaysia,Kuala Lumpur,,,"Kuala Lumpur, Malaysia"
+MY15,Province,458,MYS,MY,15,MY-15,,,,,,115.23,5.28,99400,1,Malaysia,Labuan,,,"Labuan, Malaysia"
+MY16,Province,458,MYS,MY,16,MY-16,,,,,,101.70,2.93,105400,1,Malaysia,Putrajaya,,,"Putrajaya, Malaysia"
 MZ,Country,508,MOZ,MZ,MZ,MZ,,MZ,,,,35.53,-18.67,31255435,0,Mozambique,,,,Mozambique
 NA,Country,516,NAM,NA,NA,NA,,NA,,,,18.49,-22.96,2540916,0,Namibia,,,,Namibia
 NE,Country,562,NER,NE,NE,NE,,NE,,,,8.08,17.61,24206636,0,Niger,,,,Niger
@@ -16241,6 +16244,7 @@ US56043,County,840,USA,US,WY,US-WY,56043,,,,,-107.68,43.90,7805,2,United States,
 US56045,County,840,USA,US,WY,US-WY,56045,,,,,-104.57,43.84,6927,2,United States,Wyoming,Weston,,"Weston, Wyoming, United States"
 US56900,County,840,USA,US,WY,US-WY,56900,,,,,,,,2,United States,Wyoming,Unassigned,,"Unassigned, Wyoming, United States"
 US60,State,840,USA,US,AS,US-AS,60,,,,,-170.13,-14.27,55641,1,United States,American Samoa,,,"American Samoa, United States"
+US60900,County,840,USA,US,AS,US-AS,60900,,,,,,,,2,United States,American Samoa,Unassigned,,"Unassigned, American Samoa, United States"
 US66,Territory,840,USA,US,GU,US-GU,66,,,,,144.79,13.44,164229,1,United States,Guam,,,"Guam, United States"
 US66900,Municipality,840,USA,US,GU,US-GU,66900,,,,,,,,2,United States,Guam,Unassigned,,"Unassigned, Guam, United States"
 US69,Territory,840,USA,US,MP,US-MP,69,,,,,145.67,15.10,55144,1,United States,Northern Mariana Islands,,,"Northern Mariana Islands, United States"
