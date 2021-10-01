@@ -7684,7 +7684,7 @@ DEF0D,NUTS3,276,DEU,DE,SH,DE-SH,,DEF0D,01060,,,10.14,53.92,276032,3,Germany,Schl
 DEF0E,NUTS3,276,DEU,DE,SH,DE-SH,,DEF0E,01061,,,9.45,53.87,131347,3,Germany,Schleswig Holstein,Schleswig Holstein,Steinburg,"Steinburg, Schleswig Holstein, Schleswig Holstein, Germany"
 DEF0F,NUTS3,276,DEU,DE,SH,DE-SH,,DEF0F,01062,,,10.33,53.72,243196,3,Germany,Schleswig Holstein,Schleswig Holstein,Stormarn,"Stormarn, Schleswig Holstein, Schleswig Holstein, Germany"
 DEG,NUTS1,276,DEU,DE,TH,DE-TH,,DEG,,,,10.85,51.01,2143145,1,Germany,Thuringen,,,"Thuringen, Germany"
-DEG0,NUTS2,276,DEU,DE,TH,DE-TH,,DEG0,,,,11.02,50.91,2143145,2,Germany,Thuringen,Thuringen,,"Thuringen, Thuringen, Germany"
+DEG0,NUTS2,276,DEU,DE,TH,DE-TH,,DEG0,,,,11.08,50.91,2143145,2,Germany,Thuringen,Thuringen,,"Thuringen, Thuringen, Germany"
 DEG01,NUTS3,276,DEU,DE,TH,DE-TH,,DEG01,16051,,,11.02,50.98,213699,3,Germany,Thuringen,Thuringen,"Erfurt, Kreisfreie Stadt","Erfurt, Kreisfreie Stadt, Thuringen, Thuringen, Germany"
 DEG02,NUTS3,276,DEU,DE,TH,DE-TH,,DEG02,16052,,,12.08,50.89,94152,3,Germany,Thuringen,Thuringen,"Gera, Kreisfreie Stadt","Gera, Kreisfreie Stadt, Thuringen, Thuringen, Germany"
 DEG03,NUTS3,276,DEU,DE,TH,DE-TH,,DEG03,16053,,,11.59,50.92,111407,3,Germany,Thuringen,Thuringen,"Jena, Kreisfreie Stadt","Jena, Kreisfreie Stadt, Thuringen, Thuringen, Germany"
@@ -7706,7 +7706,6 @@ DEG0J,NUTS3,276,DEU,DE,TH,DE-TH,,DEG0J,16074,,,11.73,50.90,83051,3,Germany,Thuri
 DEG0K,NUTS3,276,DEU,DE,TH,DE-TH,,DEG0K,16075,,,11.71,50.58,80868,3,Germany,Thuringen,Thuringen,Saale-Orla-Kreis,"Saale-Orla-Kreis, Thuringen, Thuringen, Germany"
 DEG0L,NUTS3,276,DEU,DE,TH,DE-TH,,DEG0L,16076,,,12.07,50.75,98159,3,Germany,Thuringen,Thuringen,Greiz,"Greiz, Thuringen, Thuringen, Germany"
 DEG0M,NUTS3,276,DEU,DE,TH,DE-TH,,DEG0M,16077,,,12.40,50.96,90118,3,Germany,Thuringen,Thuringen,Altenburger Land,"Altenburger Land, Thuringen, Thuringen, Germany"
-DEG0N,NUTS3,276,DEU,DE,TH,DE-TH,,DEG0N,16056,,,10.30,50.99,42370,3,Germany,Thuringen,Thuringen,"Eisenach, Kreisfreie Stadt","Eisenach, Kreisfreie Stadt, Thuringen, Thuringen, Germany"
 DEG0P,NUTS3,276,DEU,DE,TH,DE-TH,,DEG0P,16063,,,10.21,50.89,123025,3,Germany,Thuringen,Thuringen,Wartburgkreis,"Wartburgkreis, Thuringen, Thuringen, Germany"
 DJ,Country,262,DJI,DJ,DJ,DJ,,DJ,,,,42.59,11.83,988002,0,Djibouti,,,,Djibouti
 DK,Country,208,DNK,DK,DK,DK,,DK,,,,9.50,56.26,5792203,0,Denmark,,,,Denmark
