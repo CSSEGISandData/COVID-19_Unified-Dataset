@@ -17,6 +17,7 @@ This is a unified COVID-19 dataset to fulfill the following objectives:
 - Integrating population-weighted hydrometeorological variables.
 - Integrating air quality, comorbidities, WorldPop, and other static data.
 - Integrating policy data from Oxford government response tracker.
+- Integrating vaccination data from JHU Centers for Civic Impact.
 - Integrating an augmented version from all sources (_future releases_).
 - Optimizing the data for machine learning applications.
 
