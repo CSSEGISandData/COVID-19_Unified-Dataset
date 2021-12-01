@@ -42,7 +42,7 @@
 |  **H8**  | Protection of elderly people         |
 |  **MX**  | **Miscellaneous policies**           |
 |  **M1**  | Wildcard                             |
-|  **VX**  | **Vaccination (Brazil only)**        |
+|  **VX**  | **Vaccine (Brazil only)**        |
 |  **V1**  | Vaccine prioritisation               |
 |  **V2**  | Vaccine availability                 |
 |  **V3**  | Vaccine financial support            |
@@ -59,5 +59,4 @@
 
 For more details, see OxCGRT's [codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md), [index methodology](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/index_methodology.md), [interpretation guide](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/interpretation_guide.md), and [subnational interpretation](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/subnational_interpretation.md).
 
-The policy jurisdiction includes a suffix of `.US` or `.BR`, which cannot be interpreted alongside the primary OxCGRT's global data; see [USA-covid-policy](https://github.com/OxCGRT/USA-covid-policy) and [Br
-azil-covid-policy](https://github.com/OxCGRT/Brazil-covid-policy) for more details.
+The policy jurisdiction includes a suffix of `.US` or `.BR`, which cannot be interpreted alongside the primary OxCGRT's global data; see [USA-covid-policy](https://github.com/OxCGRT/USA-covid-policy) and [Brazil-covid-policy](https://github.com/OxCGRT/Brazil-covid-policy) for more details.
