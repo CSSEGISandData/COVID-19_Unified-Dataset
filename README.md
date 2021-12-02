@@ -101,6 +101,7 @@ Note that COVID-19 data for some European countries from Johns Hopkins Universit
 | **NLDAS**  | [North American Land Data Assimilation System](https://ldas.gsfc.nasa.gov/nldas)                                          | County/State, United States              |
 | **CIESIN** | [C. for International Earth Science Information Net.](http://www.ciesin.columbia.edu)                                     | Global gridded population                |
 | **OxCGRT** | [Oxford COVID-19 Government Response Tracker](https://github.com/OxCGRT)                                                  | National (global) & subnational (US, UK) |
+|  **CRC**   | [Johns Hopkins Centers for Civic Impact](https://github.com/govex)                                                        | National (global) & subnational (US)     |
 
 ## Credits
 
