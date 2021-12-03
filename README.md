@@ -84,6 +84,10 @@ Note that COVID-19 data for some European countries from Johns Hopkins Universit
 
 [Policy README](Policy.md)
 
+## Vaccine Data Structure
+
+[Vaccine README](Vaccine.md)
+
 ## Data Sources
 
 |   Source   | Description                                                                                                               | Level                                    |
