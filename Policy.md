@@ -42,9 +42,16 @@
 |  **H8**  | Protection of elderly people         |
 |  **MX**  | **Miscellaneous policies**           |
 |  **M1**  | Wildcard                             |
-|  **VX**  | **Vaccine (Brazil only)**        |
+|  **VX**  | **Vaccine policies**                 |
 |  **V1**  | Vaccine prioritisation               |
 |  **V2**  | Vaccine availability                 |
+|  **V2A** | Vaccine availability (summary)       |
+|  **V2B** | Vaccine availability (age, general)  |
+|  **V2C** | Vaccine availability (age, at risk)  |
+|  **V2D** | Vaccine availability (medically)     |
+|  **V2E** | Vaccine availability (education)     |
+|  **V2F** | Vaccine availability (frontline)     |
+|  **V2G** | Vaccine availability (healthcare)    |
 |  **V3**  | Vaccine financial support            |
 |  **IX**  | **Policy indices**                   |
 |  **I1**  | Containment health index             |
