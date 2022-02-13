@@ -6,6 +6,7 @@ AG,Country,028,ATG,AG,AG,AG,,AG,,,,-61.80,17.06,97928,0,Antigua and Barbuda,,,,A
 AL,Country,008,ALB,AL,AL,AL,,AL,,,,20.17,41.15,2877800,0,Albania,,,,Albania
 AM,Country,051,ARM,AM,AM,AM,,AM,,,,45.04,40.07,2963234,0,Armenia,,,,Armenia
 AO,Country,024,AGO,AO,AO,AO,,AO,,,,17.87,-11.20,32866268,0,Angola,,,,Angola
+AQ,Country,010,ATA,AQ,AQ,AQ,,AQ,,,,23.35,-71.95,,0,Antarctica,,,,Antarctica
 AR,Country,032,ARG,AR,AR,AR,,AR,,,,-63.62,-38.42,45195777,0,Argentina,,,,Argentina
 AT,Country,040,AUT,AT,AT,AT,,AT,,,,14.55,47.52,9006400,0,Austria,,,,Austria
 AU,Country,036,AUS,AU,AU,AU,,AU,,,,133.00,-25.00,25459700,0,Australia,,,,Australia
@@ -10761,7 +10762,7 @@ NO,Country,578,NOR,NO,NO,NO,,NO,,,,8.47,60.47,5421242,0,Norway,,,,Norway
 NP,Country,524,NPL,NP,NP,NP,,NP,,,,84.25,28.17,29136808,0,Nepal,,,,Nepal
 NZ,Country,554,NZL,NZ,NZ,NZ,,NZ,,,,174.89,-40.90,4822233,0,New Zealand,,,,New Zealand
 NZCK,Province,554,NZL,NZ,CK,NZ-CK,,,,,,-159.78,-21.24,17459,1,New Zealand,Cook Islands,,,"Cook Islands, New Zealand"
-OLYMPICS2020,Olympics,,,,,,,,,,,139.77,35.65,,0,Summer Olympics 2020,,,,Summer Olympics 2020
+OLYMPICS,Olympics,,,,,,,,,,,,,,0,Olympics,,,,Olympics
 OM,Country,512,OMN,OM,OM,OM,,OM,,,,55.92,21.51,5106622,0,Oman,,,,Oman
 PA,Country,591,PAN,PA,PA,PA,,PA,,,,-80.78,8.54,4314768,0,Panama,,,,Panama
 PE,Country,604,PER,PE,PE,PE,,PE,,,,-75.02,-9.19,32971846,0,Peru,,,,Peru
