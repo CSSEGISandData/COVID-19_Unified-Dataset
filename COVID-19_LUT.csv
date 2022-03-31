@@ -8169,6 +8169,7 @@ ITG2Z,NUTS3,380,ITA,IT,88,IT-88,,ITG2Z,,,,,,,3,Italy,Insular Italy,Sardinia,Out 
 ITH,NUTS1,380,ITA,IT,F,IT-F,,ITH,,,,11.36,45.65,11652827,1,Italy,Northeast Italy,,,"Northeast Italy, Italy"
 ITH1,NUTS2,380,ITA,IT,BZ,IT-BZ,,ITH1,,,,11.36,46.50,531178,2,Italy,Northeast Italy,Bolzano-Bozen,,"Bolzano-Bozen, Northeast Italy, Italy"
 ITH10,NUTS3,380,ITA,IT,BZ,IT-BZ,,ITH10,,,,11.36,46.50,531178,3,Italy,Northeast Italy,Bolzano-Bozen,Bolzano-Bozen,"Bolzano-Bozen, Bolzano-Bozen, Northeast Italy, Italy"
+ITH1Z,NUTS3,380,ITA,IT,BZ,IT-BZ,,ITH1Z,,,,,,,3,Italy,Northeast Italy,Bolzano-Bozen,Out of Region/Province,"Out of Region/Province, Bolzano-Bozen, Northeast Italy, Italy"
 ITH2,NUTS2,380,ITA,IT,TN,IT-TN,,ITH2,,,,11.12,46.07,541098,2,Italy,Northeast Italy,Trento,,"Trento, Northeast Italy, Italy"
 ITH20,NUTS3,380,ITA,IT,TN,IT-TN,,ITH20,,,,11.12,46.07,541098,3,Italy,Northeast Italy,Trento,Trento,"Trento, Trento, Northeast Italy, Italy"
 ITH3,NUTS2,380,ITA,IT,34,IT-34,,ITH3,,,,12.34,45.43,4905854,2,Italy,Northeast Italy,Veneto,,"Veneto, Northeast Italy, Italy"
