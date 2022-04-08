@@ -8310,7 +8310,7 @@ LV,Country,428,LVA,LV,LV,LV,,LV,,,,24.60,56.88,1886202,0,Latvia,,,,Latvia
 LY,Country,434,LBY,LY,LY,LY,,LY,,,,17.23,26.34,6871287,0,Libya,,,,Libya
 MA,Country,504,MAR,MA,MA,MA,,MA,,,,-7.09,31.79,36910558,0,Morocco,,,,Morocco
 MC,Country,492,MCO,MC,MC,MC,,MC,,,,7.42,43.73,39244,0,Monaco,,,,Monaco
-MD,Country,498,MDA,MD,MD,MD,,MD,,,,28.37,47.41,4033963,0,Moldova,,,,Moldova
+MD,Country,498,MDA,MD,MD,MD,,MD,,,,28.37,47.41,4027690,0,Moldova,,,,Moldova
 ME,Country,499,MNE,ME,ME,ME,,ME,,,,19.37,42.71,628062,0,Montenegro,,,,Montenegro
 MG,Country,450,MDG,MG,MG,MG,,MG,,,,46.87,-18.77,27691019,0,Madagascar,,,,Madagascar
 MH,Country,584,MHL,MH,MH,MH,,MH,,,,171.18,7.13,58413,0,Marshall Islands,,,,Marshall Islands
@@ -12774,7 +12774,7 @@ SEY,Province,752,SWE,SE,Y,SE-Y,,,,,,17.73,63.43,245347,1,Sweden,Vasternorrland,,
 SEZ,Province,752,SWE,SE,Z,SE-Z,,,,,,14.96,63.17,130810,1,Sweden,Jamtland,,,"Jamtland, Sweden"
 SG,Country,702,SGP,SG,SG,SG,,SG,,,,103.83,1.28,5850343,0,Singapore,,,,Singapore
 SI,Country,705,SVN,SI,SI,SI,,SI,,,,15.00,46.15,2078932,0,Slovenia,,,,Slovenia
-SK,Country,703,SVK,SK,SK,SK,,SK,,,,19.70,48.67,5459643,0,Slovakia,,,,Slovakia
+SK,Country,703,SVK,SK,SK,SK,,SK,,,,19.70,48.67,5434712,0,Slovakia,,,,Slovakia
 SL,Country,694,SLE,SL,SL,SL,,SL,,,,-11.78,8.46,7976985,0,Sierra Leone,,,,Sierra Leone
 SM,Country,674,SMR,SM,SM,SM,,SM,,,,12.46,43.94,33938,0,San Marino,,,,San Marino
 SN,Country,686,SEN,SN,SN,SN,,SN,,,,-14.45,14.50,16743930,0,Senegal,,,,Senegal
