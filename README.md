@@ -42,7 +42,7 @@ Note that COVID-19 data for some European countries from Johns Hopkins Universit
 |   **Type**    | Character | Type of the reported cases                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |    **Age**    | Character | Age group of the reported cases                                                                                                                                                                                                                                                                                                                                                                                                            |
 |    **Sex**    | Character | Sex/gender of the reported cases                                                                                                                                                                                                                                                                                                                                                                                                           |
-|  **Source**   | Character | Data source: [JHU](https://github.com/CSSEGISandData/COVID-19), [CTP](https://covidtracking.com), [NYC](https://github.com/nychealth/coronavirus-data), [NYT](https://github.com/nytimes/covid-19-data), [UVA](https://github.com/Phiinson/UVA_CCEP_Public), [SES](https://github.com/wcota/covid19br), [DPC](https://github.com/pcm-dpc/COVID-19), [RKI](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0), [JRC](https://github.com/ec-jrc/COVID-19) |
+|  **Source**   | Character | Data source: [JHU](https://github.com/CSSEGISandData/COVID-19), [CTP](https://covidtracking.com), [NYC](https://github.com/nychealth/coronavirus-data), [NYT](https://github.com/nytimes/covid-19-data), [UVA](https://github.com/Phiinson/UVA_CCEP_Public), [SES](https://github.com/wcota/covid19br), [DPC](https://github.com/pcm-dpc/COVID-19), [RKI](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0), [JRC](https://github.com/ec-jrc/COVID-19), [IHME](https://ghdx.healthdata.org/record/ihme-data/covid_19_cumulative_infections) |
 
 ## Case Types
 
@@ -55,6 +55,8 @@ Note that COVID-19 data for some European countries from Johns Hopkins Universit
 |   **Hospitalized**   | Total hospitalized cases excluding intensive care units           |
 | **Hospitalized_Now** | Currently hospitalized cases excluding intensive care units       |
 | **Hospitalized_Sym** | Symptomatic hospitalized cases excluding intensive care units     |
+|    **Infections**    | Estimated infections                                              |
+| **Infections_Fatal** | Estimated deaths / fatal infections                               |
 |       **ICU**        | Total cases in intensive care units                               |
 |     **ICU_Now**      | Currently in intensive care units                                 |
 |     **Negative**     | Negative tests                                                    |
@@ -106,6 +108,7 @@ Note that COVID-19 data for some European countries from Johns Hopkins Universit
 | **CIESIN** | [C. for International Earth Science Information Net.](http://www.ciesin.columbia.edu)                                     | Global gridded population                |
 | **OxCGRT** | [Oxford COVID-19 Government Response Tracker](https://github.com/OxCGRT)                                                  | National (global) & subnational (US, UK) |
 |  **CRC**   | [Johns Hopkins Centers for Civic Impact](https://github.com/govex)                                                        | National (global) & subnational (US)     |
+|  **IHME**  | [Institute for Health Metrics and Evaluation](https://ghdx.healthdata.org/record/ihme-data/covid_19_cumulative_infections)| National (global) & subnational (US)     |
 
 ## Credits
 
