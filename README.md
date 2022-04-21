@@ -55,10 +55,9 @@ Note that COVID-19 data for some European countries from Johns Hopkins Universit
 |   **Hospitalized**   | Total hospitalized cases excluding intensive care units           |
 | **Hospitalized_Now** | Currently hospitalized cases excluding intensive care units       |
 | **Hospitalized_Sym** | Symptomatic hospitalized cases excluding intensive care units     |
-|    **Infections**    | Estimated infections                                              |
-| **Infections_Fatal** | Estimated deaths / fatal infections                               |
 |       **ICU**        | Total cases in intensive care units                               |
 |     **ICU_Now**      | Currently in intensive care units                                 |
+|    **Infections**    | Estimated infections                                              |
 |     **Negative**     | Negative tests                                                    |
 |     **Pending**      | Pending tests                                                     |
 |     **Positive**     | Positive tests, including hospitalised cases and home confinement |
