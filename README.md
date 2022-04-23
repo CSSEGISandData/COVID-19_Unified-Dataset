@@ -18,6 +18,7 @@ This is a unified COVID-19 dataset to fulfill the following objectives:
 - Integrating air quality, comorbidities, WorldPop, and other static data.
 - Integrating policy data from Oxford government response tracker.
 - Integrating vaccination data from JHU Centers for Civic Impact.
+- Integrating estimates of daily infections (cases by date of infection).
 - Integrating an augmented version from all sources (_future releases_).
 - Optimizing the data for machine learning applications.
 
