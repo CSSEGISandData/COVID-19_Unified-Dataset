@@ -20,6 +20,7 @@ This is a unified COVID-19 dataset to fulfill the following objectives:
 - Integrating vaccination data from JHU Centers for Civic Impact.
 - Integrating estimates of daily infections (cases by date of infection).
 - Integrating an augmented version from all sources (_future releases_).
+- Generating epidemiological estimates of infections and effective reproduction number.
 - Optimizing the data for machine learning applications.
 
 ## Coverage Map
@@ -73,6 +74,10 @@ Note that COVID-19 data for some European countries from Johns Hopkins Universit
 ## Lookup Table
 
 [Lookup Table](COVID-19_LUT.md)
+
+## Epidemiological Estimates
+
+[COVID-19 Estimates](https://github.com/hsbadr/COVID-19_Estimates)
 
 ## Static Data Structure
 
