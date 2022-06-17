@@ -53,6 +53,7 @@
 |  **V2F** | Vaccine availability (frontline)     |
 |  **V2G** | Vaccine availability (healthcare)    |
 |  **V3**  | Vaccine financial support            |
+|  **V4**  | Vaccine requirement/mandate          |
 |  **IX**  | **Policy indices**                   |
 |  **I1**  | Containment health index             |
 |  **I2**  | Economic support index               |
