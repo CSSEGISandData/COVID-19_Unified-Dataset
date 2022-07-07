@@ -10764,6 +10764,7 @@ NLZH,Province,528,NLD,NL,ZH,NL-ZH,,,,,,4.46,51.94,3708696,1,Netherlands,Zuid-Hol
 NLZZ,Province,528,NLD,NL,ZZ,NL-ZZ,,,,,,,,,1,Netherlands,Unassigned,,,"Unassigned, Netherlands"
 NO,Country,578,NOR,NO,NO,NO,,NO,,,,8.47,60.47,5421242,0,Norway,,,,Norway
 NP,Country,524,NPL,NP,NP,NP,,NP,,,,84.25,28.17,29136808,0,Nepal,,,,Nepal
+NR,Country,520,NRU,NR,NR,NR,,NR,,,,166.92,-0.53,,0,Nauru,,,,Nauru
 NZ,Country,554,NZL,NZ,NZ,NZ,,NZ,,,,174.89,-40.90,4822233,0,New Zealand,,,,New Zealand
 NZCK,Province,554,NZL,NZ,CK,NZ-CK,,,,,,-159.78,-21.24,17459,1,New Zealand,Cook Islands,,,"Cook Islands, New Zealand"
 OLYMPICS,Olympics,,,,,,,,,,,,,,0,Olympics,,,,Olympics
