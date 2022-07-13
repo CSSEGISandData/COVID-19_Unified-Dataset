@@ -12827,6 +12827,7 @@ UA68,Province,804,UKR,UA,68,UA-68,,,,,,26.99,49.42,1264705,1,Ukraine,Khmelnytsky
 UA71,Province,804,UKR,UA,71,UA-71,,,,,,32.06,49.44,1206351,1,Ukraine,Cherkasy Oblast,,,"Cherkasy Oblast, Ukraine"
 UA74,Province,804,UKR,UA,74,UA-74,,,,,,31.29,51.50,1005745,1,Ukraine,Chernihiv Oblast,,,"Chernihiv Oblast, Ukraine"
 UA77,Province,804,UKR,UA,77,UA-77,,,,,,25.94,48.29,904374,1,Ukraine,Chernivtsi Oblast,,,"Chernivtsi Oblast, Ukraine"
+UAZZ,Province,804,UKR,UA,ZZ,UA-ZZ,,,,,,,,,1,Ukraine,Unassigned,,,"Unassigned, Ukraine"
 UG,Country,800,UGA,UG,UG,UG,,UG,,,,32.29,1.37,45741000,0,Uganda,,,,Uganda
 US,Country,840,USA,US,US,US,,US,,,,-100.00,40.00,329466283,0,United States,,,,United States
 US01,State,840,USA,US,AL,US-AL,01,,,,,-86.90,32.32,4903185,1,United States,Alabama,,,"Alabama, United States"
