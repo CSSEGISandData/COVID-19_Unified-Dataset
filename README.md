@@ -22,6 +22,8 @@ This is a unified COVID-19 dataset to fulfill the following objectives:
 - Integrating an augmented version from all sources (_future releases_).
 - Generating [epidemiological estimates](https://github.com/hsbadr/COVID-19_Estimates) of infections and effective reproduction number.
 - Optimizing the data for machine learning applications.
+- Providing multiple data formats, including the lightning fast [`fst`](http://www.fstpackage.org/fst/).
+- Providing code to efficiently load and combine/subset the datasets (_coming soon_).
 
 ## Coverage Map
 
