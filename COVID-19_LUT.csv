@@ -10763,7 +10763,7 @@ NLZH,Province,528,NLD,NL,ZH,NL-ZH,,,,,,4.46,51.94,3708696,1,Netherlands,Zuid-Hol
 NLZZ,Province,528,NLD,NL,ZZ,NL-ZZ,,,,,,,,,1,Netherlands,Unassigned,,,"Unassigned, Netherlands"
 NO,Country,578,NOR,NO,NO,NO,,NO,,,,8.47,60.47,5421242,0,Norway,,,,Norway
 NP,Country,524,NPL,NP,NP,NP,,NP,,,,84.25,28.17,29136808,0,Nepal,,,,Nepal
-NR,Country,520,NRU,NR,NR,NR,,NR,,,,166.92,-0.53,,0,Nauru,,,,Nauru
+NR,Country,520,NRU,NR,NR,NR,,NR,,,,166.93,-0.52,10834,0,Nauru,,,,Nauru
 NZ,Country,554,NZL,NZ,NZ,NZ,,NZ,,,,174.89,-40.90,4822233,0,New Zealand,,,,New Zealand
 NZCK,Province,554,NZL,NZ,CK,NZ-CK,,,,,,-159.78,-21.24,17459,1,New Zealand,Cook Islands,,,"Cook Islands, New Zealand"
 OLYMPICS,Olympics,,,,,,,,,,,,,,0,Olympics,,,,Olympics
@@ -12796,6 +12796,7 @@ TN,Country,788,TUN,TN,TN,TN,,TN,,,,9.54,33.89,11818618,0,Tunisia,,,,Tunisia
 TO,Country,776,TON,TO,TO,TO,,TO,,,,-175.20,-21.18,105697,0,Tonga,,,,Tonga
 TR,Country,792,TUR,TR,TR,TR,,TR,,,,35.24,38.96,84339067,0,Turkey,,,,Turkey
 TT,Country,780,TTO,TT,TT,TT,,TT,,,,-61.22,10.69,1399491,0,Trinidad and Tobago,,,,Trinidad and Tobago
+TV,Country,798,TUV,TV,TV,TV,,TV,,,,177.65,-7.11,11792,0,Tuvalu,,,,Tuvalu
 TW,Country,158,TWN,TW,TW,TW,,TW,,,,121.00,23.70,23816775,0,Taiwan,,,,Taiwan
 TZ,Country,834,TZA,TZ,TZ,TZ,,TZ,,,,34.89,-6.37,59734213,0,Tanzania,,,,Tanzania
 UA,Country,804,UKR,UA,UA,UA,,UA,,,,31.17,48.38,43733759,0,Ukraine,,,,Ukraine
