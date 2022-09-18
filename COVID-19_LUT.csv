@@ -7999,6 +7999,7 @@ GBJE,Province,826,GBR,GB,JE,GB-JE,,,,,,-2.14,49.21,109300,1,United Kingdom,Jerse
 GBKY,Province,826,GBR,GB,KY,GB-KY,,,,,,-81.25,19.31,65720,1,United Kingdom,Cayman Islands,,,"Cayman Islands, United Kingdom"
 GBMS,Province,826,GBR,GB,MS,GB-MS,,,,,,-62.19,16.74,4999,1,United Kingdom,Montserrat,,,"Montserrat, United Kingdom"
 GBNIR,Province,826,GBR,GB,NIR,GB-NIR,,,,,,-6.49,54.79,1881600,1,United Kingdom,Northern Ireland,,,"Northern Ireland, United Kingdom"
+GBPN,Province,826,GBR,GB,PN,GB-PN,,,,,,-128.32,-24.38,67,1,United Kingdom,Pitcairn Islands,,,"Pitcairn Islands, United Kingdom"
 GBSCT,Province,826,GBR,GB,SCT,GB-SCT,,,,,,-4.20,56.49,5463300,1,United Kingdom,Scotland,,,"Scotland, United Kingdom"
 GBSHN,Province,826,GBR,GB,SHN,GB-SHN,,,,,,-14.36,-7.95,5661,1,United Kingdom,St. Helens,,,"St. Helens, United Kingdom"
 GBTC,Province,826,GBR,GB,TC,GB-TC,,,,,,-71.80,21.69,38718,1,United Kingdom,Turks and Caicos Islands,,,"Turks and Caicos Islands, United Kingdom"
@@ -10766,6 +10767,7 @@ NP,Country,524,NPL,NP,NP,NP,,NP,,,,84.25,28.17,29136808,0,Nepal,,,,Nepal
 NR,Country,520,NRU,NR,NR,NR,,NR,,,,166.93,-0.52,10834,0,Nauru,,,,Nauru
 NZ,Country,554,NZL,NZ,NZ,NZ,,NZ,,,,174.89,-40.90,4822233,0,New Zealand,,,,New Zealand
 NZCK,Province,554,NZL,NZ,CK,NZ-CK,,,,,,-159.78,-21.24,17459,1,New Zealand,Cook Islands,,,"Cook Islands, New Zealand"
+NZNU,Province,554,NZL,NZ,NU,NZ-NU,,,,,,-169.87,-19.05,1650,1,New Zealand,Niue,,,"Niue, New Zealand"
 OLYMPICS,Olympics,,,,,,,,,,,,,,0,Olympics,,,,Olympics
 OM,Country,512,OMN,OM,OM,OM,,OM,,,,55.92,21.51,5106622,0,Oman,,,,Oman
 PA,Country,591,PAN,PA,PA,PA,,PA,,,,-80.78,8.54,4314768,0,Panama,,,,Panama
