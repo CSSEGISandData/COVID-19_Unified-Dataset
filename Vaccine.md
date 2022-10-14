@@ -6,7 +6,6 @@
 | :--------------: | :-------: | :------------------------------------------------- |
 |     **ID**       | Character | Geospatial ID, unique identifier                   |
 |     **Date**     |   Date    | Date of data record                                |
-|    **Vaccine**   | Character | Common name of the vaccine provider, or all        |
 |   **DoseType**   | Character | Type of the vaccine dose                           |
 |  **DoseValue**   |  Double   | Cumulative number of doses                         |
 |   **Vax_Full**   |  Double   | Cumulative number of people fully vaccinated       |
@@ -17,6 +16,7 @@
 |    Type    | Description                          |
 | :--------: | :----------------------------------- |
 | **Admin**  | Doses administered                   |
+| **Addit**  | Doses additional                     |
 | **Alloc**  | Doses allocated                      |
 | **Ship**   | Doses shipped/arrived to vax sites   |
 | **Stage1** | Doses administered as first          |
