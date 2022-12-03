@@ -10721,6 +10721,7 @@ MXZAC32055,Municipality,484,MEX,MX,ZAC,MX-ZAC,,,,,,-102.85,22.30,30734,2,Mexico,
 MXZAC32056,Municipality,484,MEX,MX,ZAC,MX-ZAC,,,,,,-102.68,22.74,150572,2,Mexico,Zacatecas,Zacatecas,,"Zacatecas, Zacatecas, Mexico"
 MXZAC32057,Municipality,484,MEX,MX,ZAC,MX-ZAC,,,,,,-102.31,22.76,20553,2,Mexico,Zacatecas,Trancoso,,"Trancoso, Zacatecas, Mexico"
 MXZAC32058,Municipality,484,MEX,MX,ZAC,MX-ZAC,,,,,,-103.34,21.52,3314,2,Mexico,Zacatecas,Santa Maria De La Paz,,"Santa Maria De La Paz, Zacatecas, Mexico"
+MXZZ,Province,484,MEX,MX,ZZ,MX-ZZ,,,,,,,,,1,Mexico,Unassigned,,,"Unassigned, Mexico"
 MY,Country,458,MYS,MY,MY,MY,,MY,,,,101.98,4.21,32365998,0,Malaysia,,,,Malaysia
 MY01,Province,458,MYS,MY,01,MY-01,,,,,,103.76,1.49,3768200,1,Malaysia,Johor,,,"Johor, Malaysia"
 MY02,Province,458,MYS,MY,02,MY-02,,,,,,100.37,6.12,2185900,1,Malaysia,Kedah,,,"Kedah, Malaysia"
