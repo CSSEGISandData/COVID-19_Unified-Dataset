@@ -69,12 +69,13 @@
 
 ## Policy Type Suffixes (differentiated policies)
 
-|   Type   | Description                          |
-| :------: | :----------------------------------- |
-|  **E**   | Apply to everyone                    |
-|  **NV**  | Apply to non-vaccinated people       |
-|  **V**   | Apply to non-vaccinated people       |
-|  **M**   | Apply to the majority                |
+|   Type   | Description                            |
+| :------: | :------------------------------------- |
+|  **E**   | Apply to everyone                      |
+|  **EV**  | Apply to everyone or vaccinated people |
+|  **NV**  | Apply to non-vaccinated people         |
+|  **V**   | Apply to vaccinated people             |
+|  **M**   | Apply to the majority                  |
 
 For more details, see OxCGRT's [codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md), [index methodology](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/index_methodology.md), [interpretation guide](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/interpretation_guide.md), and [subnational interpretation](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/subnational_interpretation.md).
 
