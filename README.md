@@ -1,6 +1,6 @@
 # Unified COVID-19 Dataset
 
-[![Copyright: © 2022 JHU)](https://img.shields.io/badge/Copyright-%C2%A9%202022%20JHU-blue.svg)](https://systems.jhu.edu)
+[![Copyright: © 2023 JHU)](https://img.shields.io/badge/Copyright-%C2%A9%202023%20JHU-blue.svg)](https://systems.jhu.edu)
 [![Credits: NASA/NIH](https://img.shields.io/badge/Credits-NASA%20&%20NIH-blue.svg)](#Credits)
 [![DOI: 10.1101/2021.05.05.21256712](https://zenodo.org/badge/DOI/10.1101%2F2021.05.05.21256712.svg)](https://doi.org/10.1101/2021.05.05.21256712)
 [![GitHub Commit](https://img.shields.io/github/last-commit/CSSEGISandData/COVID-19_Unified-Dataset)](https://github.com/CSSEGISandData/COVID-19_Unified-Dataset/commits/master)
