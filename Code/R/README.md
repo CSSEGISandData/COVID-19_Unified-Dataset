@@ -1,6 +1,6 @@
 # Unified COVID-19 Dataset
 
-## COVID-19 Hydromet Scripts
+## COVID-19 Scripts
 
 `COVID-19_Data.sh`: Bash script to run all scripts.
 
